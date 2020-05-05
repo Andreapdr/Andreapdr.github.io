@@ -4,14 +4,14 @@ title:  "Generalized Funnelling: Heterogeneous Document Embeddings for Multi-Lin
 date:   2020-05-05 17:49:36 +0530
 categories: NLP Multi-Lingual Text Classification Cross-Lingual Text Classification
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+In this thesis we redesign funnelling by generalizing this procedure; we call the resulting framework Generalized Funnelling (gFun). In doing so, we enable gFun's meta-classifier to capitalize on different language-independent views of the document, that go beyond the document-class correlations captured by the posterior probabilities that are used in ``standard'' funnelling.
 
 ![gFun-architecture]
 
-Check out the [Generalized Funnelling][gFun-thesis] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+To exemplify such views, we experiment with embeddings derived from word-word correlations (for this we use MUSE embedding) and embeddings derived from word-class correlations (for this we use WCE embeddings ) aligned across languages.
+The extensive empirical evaluation we have carried out seems indeed to confirm the hypothesis that multiple, language-independent views that capture different types of correlations are beneficial for MLTC. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
 [gFun-architecture]: /assets/gFun-architecture.png
 [gFun-thesis]: /assets/gFun-thesis.pdf
+
+
