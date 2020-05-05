@@ -14,4 +14,4 @@ Check out the [Generalized Funnelling][gFun-thesis] for more info on how to get 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 [gFun-architecture]: /assets/gFun-architecture.png
-[gFun-thesis]: /assets/gFun_thesis.pdf
+[gFun-thesis]: /assets/gFun-thesis.pdf
