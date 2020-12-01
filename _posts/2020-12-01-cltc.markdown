@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Going back to the origins: papers on Cross-Lingual Text Classification"
+date:   2020-12-01 18:14:00 +0530
+categories: Cross-Lingual-Text-Classification
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pharetra vel massa ut interdum. Praesent non diam fringilla metus viverra dictum. Sed sed purus ut tellus euismod porta eget sed odio. Sed consequat porttitor ligula, non vestibulum felis tempor eu. Sed consectetur sem ullamcorper lacus auctor ornare. Donec ullamcorper nunc eros, in mattis nulla ornare vel. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer mollis sollicitudin purus eget dignissim. Aenean a placerat erat. Pellentesque semper maximus sem, eget lobortis felis consectetur id. Donec convallis feugiat iaculis. Etiam gravida eros sollicitudin quam volutpat, in mattis libero varius. Sed convallis quis leo et porta. Maecenas lobortis in nibh a imperdiet. Pellentesque placerat efficitur nibh, id tristique dolor posuere at.
+
+Donec vel ante consequat, vestibulum nisl sit amet, ultrices magna. Aliquam pharetra, felis egestas pretium vestibulum, ante tortor ultricies lacus, at feugiat eros mauris fermentum enim. Ut maximus velit in est euismod, vel dictum justo fringilla. Vestibulum hendrerit, risus a vulputate porttitor, erat odio aliquet enim, nec accumsan risus felis quis quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque dolor dui, porta nec dui et, condimentum sagittis sapien. Aliquam tincidunt nibh at est ornare, eget lobortis arcu porttitor. Aliquam elementum tempus purus at sollicitudin. Pellentesque pretium lorem sed ultricies feugiat. Suspendisse potenti. Quisque dignissim luctus massa non maximus. In pharetra blandit ultricies. Nam tristique, est non consectetur scelerisque, ante magna ullamcorper dui, non molestie velit orci ac metus. In nec magna et felis convallis feugiat a eget lacus. Mauris quis dignissim arcu. Maecenas id sagittis tortor.
+
+Praesent varius augue sed orci suscipit, consequat ornare nibh dignissim. Curabitur pharetra enim quis nulla tempor malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed consequat mattis leo. Donec ultrices ligula in enim mattis lacinia in eget tellus. Mauris sagittis sagittis lacus, non scelerisque tortor rutrum et. Vivamus varius nibh sit amet dictum ullamcorper. Nunc gravida eleifend volutpat. Quisque non vulputate erat. Aliquam sed pretium odio.
+
+Integer et vehicula lectus. Integer ut nisi libero. Aliquam lectus velit, luctus imperdiet mi sit amet, efficitur mollis urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vel felis nunc. Phasellus suscipit risus at elit sodales mollis. Donec auctor venenatis risus id porta. Praesent quis lacus et leo efficitur commodo quis nec odio.
+
+Praesent erat lectus, porta sit amet tellus a, vehicula mattis quam. Phasellus sapien augue, blandit vitae libero a, tincidunt condimentum urna. Integer felis lorem, volutpat id scelerisque eu, pretium non nisl. Sed efficitur sollicitudin dui. Mauris in ornare turpis, rhoncus cursus dui. Nunc nunc arcu, maximus at felis facilisis, ultricies bibendum dui. Sed nulla massa, sagittis quis dignissim vitae, placerat at tortor. 
